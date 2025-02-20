@@ -10,8 +10,8 @@
 #include <unistd.h>
 #include <string.h>
 #include <limits.h>
-#include "../include/commands.h"
-#include "../include/execute.h"
+#include "commands.h"
+#include "execute.h"
 
 // Running = 1
 // Not Running = 0

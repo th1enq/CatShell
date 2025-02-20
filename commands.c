@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <string.h>
-#include "../include/commands.h"
+#include "commands.h"
 
 struct listCommands parseCommands(char *commandLine) {
     struct listCommands list;

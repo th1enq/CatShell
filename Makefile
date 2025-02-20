@@ -3,4 +3,4 @@ run: build
 
 build:
 	mkdir -p bin
-	gcc src/*.c -o bin/main
+	gcc *.c -o bin/main

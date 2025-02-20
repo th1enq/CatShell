@@ -6,7 +6,7 @@
 #include <sys/wait.h>
 #include <dirent.h> 
 #include <errno.h> 
-#include "../include/execute.h"
+#include "execute.h"
 
 
 void executeCommand(struct singleCommand command, FILE *write, FILE *read) {
