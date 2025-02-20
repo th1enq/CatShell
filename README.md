@@ -39,7 +39,7 @@ This project is a simple Unix/Linux shell implementation in C. It supports execu
    make run
    ```
 
-3. ## Usage
+3. Usage
 
 Once the shell starts, you can execute commands just like in a standard Unix shell. Examples:
 
@@ -67,4 +67,8 @@ Once the shell starts, you can execute commands just like in a standard Unix she
   ls | grep .c
   ```
 
+## Version
 
+- v1: Simple command (Done)
+
+- v2: Internal command (cd, dir, env, ...) (Comming soon)cl
